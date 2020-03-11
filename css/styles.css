@@ -1,0 +1,19 @@
+h1  {
+    color: rgb(59, 59, 100); 
+    text-align: center;
+    background-color: rgb(200, 234, 238);
+}
+h2  {
+    color: rgb(78, 107, 151);
+    font-style: italic;
+    text-align: center;
+}
+p   {
+    font-family: sans-serif;
+}
+ul  {
+    line-height: 40px;
+}
+body    {
+    background-color: rgb(181, 212, 216);
+}
