@@ -16,4 +16,4 @@ Basic HTML and CSS code in Visual Studio Code and Atom.
 ## Support and contact details
 If you run into any problems, contact me at allenbosire@gmail.com
 ### License
-My First Webpage is [MIT Licensed](../blob/master/LICENSE)
+My First Webpage is [MIT Licensed](https://github.com/iAllan/my-first-webpage/blob/master/LICENSE.txt)
